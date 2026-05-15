@@ -1,94 +1,111 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=header&text=SOFTWARE%20ENGINEERING%20%2F%2F%20TERMINAL&fontSize=30&fontColor=ff8c00"/>
+# 💻 Jose Vaz // Yosef
 
-<br>
+**`Futuro Engenheiro de Software`**
 
-<div align="center">
-  <img align="center" width="180" src="https://raw.githubusercontent.com/Jose635ks/Gestao-de-Remessas/master/assets/avatar.png" style="border-radius: 50%; border: 4px solid #ff8c00;" />
-</div>
+Me chamo Jose (também utilizo o nickname Yosef). Atualmente, estou no 2º ano de Engenharia Informática no ISCTEM, com o objetivo de me tornar um Engenheiro de Software. Sou apaixonado por tecnologia, especialmente pelo ecossistema Linux e programação em Java, e compartilho minhas criações 3D e vídeos através do Instagram e do TikTok, nos perfis [@devyosef07](https://www.instagram.com/devyosef07) e [@Jose635ks](https://www.tiktok.com/@Jose635ks), além de disponibilizar meus projetos no GitHub.
 
-<div align="center">
-  <br>
-  <b>`プ ロ グ ラ マ`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Jose // Yosef</b>
-  </samp>
-</div>
+<p align="left">
+    <a href="https://www.instagram.com/devyosef07/">
+        <img 
+            alt="Instagram" 
+            title="Siga no Instagram" 
+            src="https://img.shields.io/badge/@devyosef07-FF6600?style=for-the-badge&label=Instagram&logo=instagram&logoColor=white&labelColor=black"
+        />
+    </a>
+    <a href="https://www.instagram.com/Jose635ks/">
+        <img 
+            alt="Instagram 3D" 
+            title="Siga o perfil 3D" 
+            src="https://img.shields.io/badge/@Jose635ks-FF6600?style=for-the-badge&label=Instagram%203D&logo=instagram&logoColor=white&labelColor=black"
+        />
+    </a> 
+    <a href="https://github.com/devyosef07?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/devyosef07?color=FF6600&style=for-the-badge&labelColor=black&logo=star&label=estrelas&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/devyosef07?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/devyosef07?color=FF6600&labelColor=black&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff8c00&width=900&size=24&center=true&lines=Future+Software+Engineer;Computer+Engineering+Student+at+ISCTEM;Java+Backend+Specialist;Ubuntu+Linux+Power+User;3D+Designer+%26+Content+Creator" alt="Typing SVG"/>
-</div>
+---
 
-<br>
+### 🤖 Linguagens e Tecnologias
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VIBE-BLACK_ORANGE-ff8c00?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/STATUS-DEVELOPING-white?style=for-the-badge&labelColor=000000" />
-</div>
-      
-<br>
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Dart" 
+    title="Dart"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Kotlin" 
+    title="Kotlin"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jose635ks&show_icons=true&theme=dark&bg_color=000000&title_color=ff8c00&icon_color=ff8c00&text_color=ffffff&border_color=ff8c00&count_private=true">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose635ks&layout=compact&theme=dark&bg_color=000000&title_color=ff8c00&text_color=ffffff&border_color=ff8c00&count_private=true">
-</div>
+<br/>
+<br/>
 
-<div align="center">
-  <img align="center" width="100%" alt="Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose635ks&theme=dracula&bg_color=000000&title_color=ff8c00"/>
-</div>
+### 📊 Estatísticas
 
-<br>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=devyosef07&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<div align="center">
-  <samp><b>CORE ARCHITECTURE // TECH STACK</b></samp>
-  <br><br>
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" alt="Dart">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Ubuntu-Dark.svg" alt="Ubuntu">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git">
-  <img width="45" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="Figma">
-</div>
-
-<br>
-
-<details align="center">  
-  <summary>
-      <samp>
-        <b>[ROOT] // EXPAND SYSTEM INFO</b>
-      </samp>
-  </summary>
-  
-<br>
-
-### 🎓 Formação Académica
-* Estudante de **Engenharia Informática** no **ISCTEM** (2º Ano). 
-* Focado em dominar os fundamentos de **POO**, Algoritmos e Estruturas de Dados.
-* Experiência prática em ambientes **Ubuntu 24.04.4 LTS**.
-
-### 🛠️ Projetos em Destaque
-* **[Gestão de Remessas](https://github.com/Jose635ks/Gestao-de-Remessas)**: Sistema backend em Java focado em logística estratégica de bens essenciais.
-* **M-Pesa Simulation**: Engenharia de fluxos financeiros e pagamentos móveis em Java.
-
-<br>
-
-<div align="center">
-  <samp><b>Connect:</b></samp>
-  <br><br>
-  [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff8c00&border=ff8c00)](https://www.instagram.com/TEU_USER)
-  [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff8c00&border=ff8c00)](mailto:TEU_EMAIL)
-</div>
-
-<br>
-
-</details>
-
-##
-
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Jose635ks&style=flat-square&color=ff8c00&label=TERMINAL+ACCESS" /></p> 
-</div>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=000000&section=footer"/>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyosef07&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  />
+</p>
