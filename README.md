@@ -2,7 +2,7 @@
 
 **`Futuro Engenheiro de Software`**
 
-Me chamo Jose (também utilizo o nickname Yosef). Atualmente, estou no 2º ano de Engenharia Informática no ISCTEM, com o objetivo de me tornar um Engenheiro de Software. Sou apaixonado por tecnologia, especialmente pelo ecossistema Linux e programação em Java, e compartilho minhas criações 3D e vídeos através do Instagram e do TikTok, nos perfis [@devyosef07](https://www.instagram.com/devyosef07) e [@Jose635ks](https://www.tiktok.com/@Jose635ks), além de disponibilizar meus projetos no GitHub.
+Me chamo Jose (também utilizo o nickname Yosef). Atualmente, estou no 2º ano de Engenharia Informática no ISCTEM, com o objetivo de me tornar um Engenheiro de Software. Sou apaixonado por tecnologia, especialmente pelo ecossistema Linux e programação em Java, e compartilho minhas criações 3D e vídeos através do Instagram e do TikTok, nos perfis [@devyosef07](https://www.instagram.com/devyosef07) e [@devyosef07](https://www.tiktok.com/@Jose635ks), além de disponibilizar meus projetos no GitHub.
 
 <p align="left">
     <a href="https://www.instagram.com/devyosef07/">
@@ -12,12 +12,7 @@ Me chamo Jose (também utilizo o nickname Yosef). Atualmente, estou no 2º ano d
             src="https://img.shields.io/badge/@devyosef07-FF6600?style=for-the-badge&label=Instagram&logo=instagram&logoColor=white&labelColor=black"
         />
     </a>
-    <a href="https://www.instagram.com/Jose635ks/">
-        <img 
-            alt="Instagram 3D" 
-            title="Siga o perfil 3D" 
-            src="https://img.shields.io/badge/@Jose635ks-FF6600?style=for-the-badge&label=Instagram%203D&logo=instagram&logoColor=white&labelColor=black"
-        />
+    <a 
     </a> 
     <a href="https://github.com/devyosef07?tab=repositories&sort=stargazers">
         <img 
